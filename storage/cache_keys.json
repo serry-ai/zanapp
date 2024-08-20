@@ -1,0 +1,13 @@
+{
+    "Botble\\Base\\Supports\\DashboardMenu": [
+        "03eefa39b82d941c0f50db437493c565@dashboard_menu:admin:Botble\\ACL\\Models\\User:1:en",
+        "03eefa39b82d941c0f50db437493c565@dashboard_menu:admin:Botble\\ACL\\Models\\User:2:en",
+        "03eefa39b82d941c0f50db437493c565@dashboard_menu:customer:undefined:guest:en",
+        "03eefa39b82d941c0f50db437493c565@dashboard_menu:vendor:undefined:guest:en",
+        "03eefa39b82d941c0f50db437493c565@dashboard_menu:vendor:undefined:guest:ar"
+    ],
+    "Botble\\Ecommerce\\Services\\HandleShippingFeeService": [
+        "66d6c800acf0bbfe034c13e9e2145ba3@eaf437b89ff2e6a1a6c8608cfa3248d2",
+        "66d6c800acf0bbfe034c13e9e2145ba3@a4e55da155ddab3a4e497561af197018"
+    ]
+}
